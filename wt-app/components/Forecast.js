@@ -17,6 +17,6 @@ export default function Forecast(props) {
         color: "black",
         textAlign: 'center',
         padding: 20,
-        fontSize: 30,
+        fontSize: 18,
     },
 });
